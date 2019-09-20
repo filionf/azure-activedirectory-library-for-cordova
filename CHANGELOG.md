@@ -1,3 +1,6 @@
+0.10.3 - September 20, 2019
+* Support for cordova 9
+
 0.10.1 - July 5, 2017
 * windows: added compatibility with VS2017
 * android: upgraded ADAL native SDK version to 1.12.0 
